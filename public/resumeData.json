@@ -48,16 +48,16 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "Assumptin Univeristy - Bangkok",
-        "degree": "Bachelor's Degree, Music Business",
-
-        "description": "Jazz vocal & guitar"
-      },
-      {
         "school": "LeWagon - Bali",
         "degree": "Full-stack Web Development",
 
         "description": "Nine week intensive coding bootcamp learning HTML, CSS, Bootstrap, JavaScript (ES5), SQL, Git, Github, Heroku and Ruby on Rails."
+      },
+      {
+        "school": "Assumption Univeristy - Bangkok",
+        "degree": "Bachelor's Degree, Music Business",
+
+        "description": "Jazz vocal & guitar"
       }
     ],
     "work": [
@@ -70,18 +70,18 @@
       {
         "company": "Nangarra Games",
         "title": "Lead Developer",
-        "years": "October 2019 - Present",
+        "years": "October 2020 - Present",
         "description": "Front- and back-end development in React.js, JavaScript and, Ruby on Rails on several public and internal projects. Taking part in responsive web UI / visual design process, engaging with lead designer. Responsible for deployment, maintenance and testing. Engaging directly with CEO and business owner."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "85%"
+        "level": "70%"
       },
       {
         "name": "Ruby on Rails",
-        "level": "85%"
+        "level": "65%"
       },
       {
         "name": "Git",
@@ -89,11 +89,11 @@
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "75%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "78%"
       }
     ]
   },
@@ -101,33 +101,105 @@
     "projects": [
       {
         "title": "Nangarra Games Landing(React JS)",
-        "category": "",
+        "category": "Built this site for my client Nangarra Games",
         "image": "nangarra.png",
         "url": "https://www.nangarra.com"
+      },
+      {
+        "title": "Fitnesspoker (React JS)",
+        "category": "",
+        "image": "fitnesspoker.png",
+        "url": "https://www.fitnesspoker.se/"
+      },
+      {
+        "title": "Jag Har Aldrig (React JS)",
+        "category": "",
+        "image": "jagharaldrig.png",
+        "url": "https://jagharaldrigxxx.com/"
+      },
+      {
+        "title": "Flaffy Factory (PWA/JS)",
+        "category": "",
+        "image": "flaffy-factory.png",
+        "url": "https://www.flaffyfactory.se/"
       },
       {
         "title": "Amazon Clone (React JS)",
         "category": "",
         "image": "amazon.png",
-        "url": ""
+        "url": "https://clone-9c53b.web.app"
+      },
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "netflix-yoda.png",
+        "url": "https://netflix-clone-1c8b7.web.app/"
       },
       {
         "title": "LinkedIn Clone (React JS)",
         "category": "",
         "image": "linkedin.png",
-        "url": ""
+        "url": "https://linkedin-clone-4d145.web.app/"
+      },
+      {
+        "title": "Snapchat clone (React.js)",
+        "category": "",
+        "image": "snapchat-clone.png",
+        "url": "https://snapchat-clone-47b40.web.app/"
+      },
+      {
+        "title": "SuperClout (Ruby On Rails)",
+        "category": "",
+        "image": "superclout.png",
+        "url": "https://superclout.herokuapp.com"
+      },
+      {
+        "title": "UpHold (Ruby on Rails)",
+        "category": "",
+        "image": "uphold.png",
+        "url": "https://project-uphold.herokuapp.com"
+      },
+      {
+        "title": "Reddit Clone (Ruby on Rails)",
+        "category": "",
+        "image": "reddit-clone.png",
+        "url": "https://rails-reddit-clone.herokuapp.com/"
+      },
+      {
+        "title": "AirBnb (React JS)",
+        "category": "",
+        "image": "airbnb-clone.png",
+        "url": "https://airbnb-clone-e0d46.web.app"
+      },
+      {
+        "title": "Youtube Clone (React JS)",
+        "category": "",
+        "image": "youtube-clone.png",
+        "url": "https://clone-2599c.web.app"
+      },
+      {
+        "title": "Zoom Cloe (JS)",
+        "category": "",
+        "image": "zoom-clone.png",
+        "url": "https://fathomless-wave-04777.herokuapp.com"
+      },
+      {
+        "title": "Google Maps API (React JS)",
+        "category": "",
+        "image": "googlemaps-api.png",
+        "url": "https://alexek1987.github.io/google-maps-app"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "",
-        "user": "James Becker"
+        "text": "James Becker - Senior Vue.js Rails Developer",
+        "user": "I have known Alex for nearly 7 years, 2 of those as his web development tutor. His entrepreneurial mindset, energetic attitude, creative approach, and communication skills enable him to work with product owners and stakeholders to come up with solutions to the problems they face. He has a keen eye for design and I would happily recommend him for a front-end development position that involves direct communication with stakeholders."
       },
       {
-        "text": "",
-        "user": "Nicklas Nangarra"
+        "text": "Nicklas Nangarra - CEO Nangarra Games AB",
+        "user": "We have been using Alexander for all our web-development needs and couldn't be happier with the result. He always comes in with a can do mindset. He is an exceptional worker and strategic thinker, who always deliver high quality work, and this is why we keep coming back for more.  "
       }
     ]
   }

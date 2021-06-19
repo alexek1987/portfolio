@@ -1,4 +1,5 @@
 import React from "react";
+import "./portfolio.css"
 
 const Portfolio = ({ data }) => {
   if (data) {
@@ -33,7 +34,7 @@ const Portfolio = ({ data }) => {
 
           <div
             id="portfolio-wrapper"
-            className="bgrid-quarters s-bgrid-thirds cf"
+            className="portfolio-rows"
           >
             {projects}
           </div>
