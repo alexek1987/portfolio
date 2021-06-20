@@ -63,20 +63,20 @@
     "work": [
       {
         "company": "Senna Labs",
-        "title": "Full-stack Developer",
-        "years": "Aprik 2020 - Present",
-        "description": "Developing web-scrapers, browser automation and custom CRM solutions. Small web apps with Ruby, JavaScript. Developing and managing Shopify stores."
+        "title": "Full-stack developer",
+        "years": "April 2020 - Present",
+        "description": "Working primarily as a Front-end dev on projects for our corporate customers utilizing technologies such as React/Next.js, Typescript, MVC-architechture in an AGILE environment. "
       },
       {
         "company": "A-DEV",
         "title": "Founder and CEO",
         "years": "May 2019 - Present",
-        "description": "Developing web-scrapers, browser automation and custom CRM solutions. Small web apps with Ruby, JavaScript. Developing and managing Shopify stores."
+        "description": "Developing web-scrapers, browser automation and custom CRM solutions. Small web apps with Rails/Node.js, React/Next.js. Developing and managing Shopify stores."
       },
       {
         "company": "Nangarra Games",
         "title": "Lead Developer",
-        "years": "October 2020 - Present",
+        "years": "October 2020 - May 2021",
         "description": "Front- and back-end development in React.js, JavaScript and, Ruby on Rails on several public and internal projects. Taking part in responsive web UI / visual design process, engaging with lead designer. Responsible for deployment, maintenance and testing. Engaging directly with CEO and business owner."
       }
     ],
@@ -84,6 +84,14 @@
       {
         "name": "ReactJs",
         "level": "70%"
+      },
+      {
+        "name": "NextJs",
+        "level": "70%"
+      },
+      {
+        "name": "Typescript",
+        "level": "80%"
       },
       {
         "name": "Ruby on Rails",
