@@ -2,7 +2,7 @@
   "main": {
     "name": "Alexander Eklund",
     "occupation": "A-Development",
-    "description": "Full_stack_developer = [ 'React'', 'Rails, 'and a whole lot of terminal']",
+    "description": "Full_stack_developer = [ 'React', 'Next.js', 'Typescript', 'Rails, 'and a whole lot of terminal']",
     "image": "profilepic.jpg",
     "bio": "People-first communicator and team player with technical expertise across a wide range of development technologies, with experience in modern front and back end frameworks.",
     "contactmessage": "Get in touch with me!",
@@ -62,6 +62,12 @@
     ],
     "work": [
       {
+        "company": "Senna Labs",
+        "title": "Full-stack Developer",
+        "years": "Aprik 2020 - Present",
+        "description": "Developing web-scrapers, browser automation and custom CRM solutions. Small web apps with Ruby, JavaScript. Developing and managing Shopify stores."
+      },
+      {
         "company": "A-DEV",
         "title": "Founder and CEO",
         "years": "May 2019 - Present",
@@ -117,6 +123,25 @@
         "image": "jagharaldrig.png",
         "url": "https://jagharaldrigxxx.com/"
       },
+      {
+        "title": "Raiona (Next JS)",
+        "category": "",
+        "image": "raiona.png",
+        "url": " https://raiona-web.vercel.app/"
+      },
+      {
+        "title": "Auric (Next JS)",
+        "category": "",
+        "image": "auric.png",
+        "url": "https://www.auriccommercialhire.co.uk/"
+      },
+      {
+        "title": "Bellview Properties (React JS)",
+        "category": "",
+        "image": "bellview.png",
+        "url": "https://www.bellviewguam.com/"
+      },
+
       {
         "title": "Flaffy Factory (PWA/JS)",
         "category": "",
