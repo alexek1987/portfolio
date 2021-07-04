@@ -115,7 +115,7 @@
     "projects": [
       {
         "title": "Nangarra Games Landing(React JS)",
-        "category": "Built this site for my client Nangarra Games",
+        "category": "",
         "image": "nangarra.png",
         "url": "https://www.nangarra.com"
       },
@@ -157,7 +157,7 @@
         "url": "https://www.flaffyfactory.se/"
       },
       {
-        "title": "Flaffy Factory (Stripe Api)",
+        "title": "Arrowhead Support (JavaScript/Stripe API)",
         "category": "",
         "image": "arrowhead.png",
         "url": "https://www.arrowheadsupport.org/"
