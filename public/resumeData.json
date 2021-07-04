@@ -157,6 +157,13 @@
         "url": "https://www.flaffyfactory.se/"
       },
       {
+        "title": "Flaffy Factory (Stripe Api)",
+        "category": "",
+        "image": "arrowhead.png",
+        "url": "https://www.arrowheadsupport.org/"
+      },
+
+      {
         "title": "Amazon Clone (React JS)",
         "category": "",
         "image": "amazon.png",
@@ -229,6 +236,10 @@
       {
         "text": "James Becker - Senior Vue.js Rails Developer",
         "user": "I have known Alex for nearly 7 years, 2 of those as his web development tutor. His entrepreneurial mindset, energetic attitude, creative approach, and communication skills enable him to work with product owners and stakeholders to come up with solutions to the problems they face. He has a keen eye for design and I would happily recommend him for a front-end development position that involves direct communication with stakeholders."
+      },
+      {
+        "text": "Terence Bell - Bellview Properties/Arrowhead Support",
+        "user": "It has been a pleasure working with Alex and A-Development. His efforts and devotion in making quality web and application development is outstanding. He definitely goes the extra mile to insure the customer is satisfied with an excellent end product."
       },
       {
         "text": "Nicklas Nangarra - CEO Nangarra Games AB",
