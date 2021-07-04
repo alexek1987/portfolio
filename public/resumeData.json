@@ -2,7 +2,7 @@
   "main": {
     "name": "Alexander Eklund",
     "occupation": "A-Development",
-    "description": "Full_stack_developer = [ 'React'', 'Rails, 'and a whole lot of terminal']",
+    "description": "Full_stack_developer = [ 'React', 'Next.js', 'Typescript', 'Rails, 'and a whole lot of terminal']",
     "image": "profilepic.jpg",
     "bio": "People-first communicator and team player with technical expertise across a wide range of development technologies, with experience in modern front and back end frameworks.",
     "contactmessage": "Get in touch with me!",
@@ -62,15 +62,21 @@
     ],
     "work": [
       {
+        "company": "Senna Labs",
+        "title": "Full-stack developer",
+        "years": "April 2020 - Present",
+        "description": "Working primarily as a Front-end dev on projects for our corporate customers utilizing technologies such as React/Next.js, Typescript, MVC-architechture in an AGILE environment. "
+      },
+      {
         "company": "A-DEV",
         "title": "Founder and CEO",
         "years": "May 2019 - Present",
-        "description": "Developing web-scrapers, browser automation and custom CRM solutions. Small web apps with Ruby, JavaScript. Developing and managing Shopify stores."
+        "description": "Developing web-scrapers, browser automation and custom CRM solutions. Small web apps with Rails/Node.js, React/Next.js. Developing and managing Shopify stores."
       },
       {
         "company": "Nangarra Games",
         "title": "Lead Developer",
-        "years": "October 2020 - Present",
+        "years": "October 2020 - May 2021",
         "description": "Front- and back-end development in React.js, JavaScript and, Ruby on Rails on several public and internal projects. Taking part in responsive web UI / visual design process, engaging with lead designer. Responsible for deployment, maintenance and testing. Engaging directly with CEO and business owner."
       }
     ],
@@ -78,6 +84,14 @@
       {
         "name": "ReactJs",
         "level": "70%"
+      },
+      {
+        "name": "NextJs",
+        "level": "70%"
+      },
+      {
+        "name": "Typescript",
+        "level": "80%"
       },
       {
         "name": "Ruby on Rails",
@@ -117,6 +131,25 @@
         "image": "jagharaldrig.png",
         "url": "https://jagharaldrigxxx.com/"
       },
+      {
+        "title": "Raiona (Next JS)",
+        "category": "",
+        "image": "raiona.png",
+        "url": " https://raiona-web.vercel.app/"
+      },
+      {
+        "title": "Auric (Next JS)",
+        "category": "",
+        "image": "auric.png",
+        "url": "https://www.auriccommercialhire.co.uk/"
+      },
+      {
+        "title": "Bellview Properties (React JS)",
+        "category": "",
+        "image": "bellview.png",
+        "url": "https://www.bellviewguam.com/"
+      },
+
       {
         "title": "Flaffy Factory (PWA/JS)",
         "category": "",
